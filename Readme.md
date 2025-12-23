@@ -13,3 +13,13 @@ Contohnya seperti: GET http://localhost:3000/products yang akan muncul adalah
 ]
 
 ![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/delete_category.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/delete_product.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/get_category.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/get_category_byid.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/get_product.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/get_product_byid.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/post_category.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/post_product.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/put_category.png?raw=true)
+![alt_text](https://github.com/Ayusef9/nodejs-crud-restapi2/blob/main/img/put_product.png?raw=true)
+
